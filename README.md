@@ -1,6 +1,6 @@
 - 👋 Hola soy Franco.
 - 👀 Estoy interesado en aprender y seguir perfeccionandome lo mas que pueda en el ambito de la programcion. 
-- 🌱 Actualmente estoy aprendiendo TS y MondoDB, junto a JS y Python
+- 🌱 Actualmente estoy aprendiendo TS y MongoDB, junto a JS y Python
 - 💞️ Estoy interesado en ayudar en todos los proyectos que pueda para poder compartir mis experiencias y adquirir nuevas.
 - 📫 Me podes contactar por 
 - Instagram https://www.instagram.com/francotoledo08/
